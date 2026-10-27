@@ -1,1 +1,2 @@
-# BluefolderChanging Readme inside Bluefolder
+# Bluefolder
+## Changing Readme inside Bluefolder
